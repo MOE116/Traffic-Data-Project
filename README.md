@@ -8,12 +8,12 @@ The hypothesis to test was; "Driver related factors(Age, over speeding status, T
 
 Motor vehicle accidents data in the USA was sourced from NHTSA(National HighwayTraffic safety Administration) for the year 2018.
 The "Data set" folder  contains the following files:
->  acc_18.csv
->  pers_18.csv
->  veh_18.csv
->  merged_accident_data_18.csv
->  filtered_accident_data_1.csv
->  filtered_accident_data_updated.csv
+-  acc_18.csv
+-  pers_18.csv
+-  veh_18.csv
+-  merged_accident_data_18.csv
+-  filtered_accident_data_1.csv
+-  filtered_accident_data_updated.csv
 
 The 3 data sets were merged to get "merged_accident_data_18.csv"
 The data set was further trimmed down in column size after performing some analysis towards attribute selection.
