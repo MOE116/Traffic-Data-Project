@@ -29,5 +29,5 @@ The trainng data was oversampled and undersampled, both versions were used to tr
 **Conclusions**:
 The RandomForest Classifer did not perform as well as expected, low accuracy, precision and F1 scores.
 
-The Model can benefit from real time data if intended to be used for crash prediction.
+The Model can benefit from real time data if intended to be used for crash severity prediction.
 
